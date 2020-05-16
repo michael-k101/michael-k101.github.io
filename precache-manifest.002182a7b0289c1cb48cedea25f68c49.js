@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6817efe5f5e42d85e039a54557d64893",
+    "revision": "7626a4d8fc757b7891d0e36e100630ea",
     "url": "/index.html"
   },
   {
-    "revision": "e2a4e7aa24f652815efc",
+    "revision": "afcfdc5e1b838f828668",
     "url": "/static/css/main.eb830e71.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d3f2bec2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2a4e7aa24f652815efc",
-    "url": "/static/js/main.f470a8a7.chunk.js"
+    "revision": "afcfdc5e1b838f828668",
+    "url": "/static/js/main.56de3ce5.chunk.js"
   },
   {
     "revision": "61d75153ebbe9a5a0c2c",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4e5f07cf15c64bd04c77a18e3051209e",
     "url": "/static/media/logo.4e5f07cf.png"
+  },
+  {
+    "revision": "f70c910aeb0019a25adfc245f41545d0",
+    "url": "/static/media/michael-koohang-resume.f70c910a.pdf"
   },
   {
     "revision": "3ebb8110031aba3053e549dfe074ab8e",
