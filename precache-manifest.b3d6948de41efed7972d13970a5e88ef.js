@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8ed382570c3207933936486e7037c13",
+    "revision": "4041eb7e843abb96ddcb8071f37fdfce",
     "url": "/index.html"
   },
   {
-    "revision": "0f1a68d5fbfd6f9e662a",
-    "url": "/static/css/main.c1eb7e27.chunk.css"
+    "revision": "ef00df490276e6990c18",
+    "url": "/static/css/main.9342944d.chunk.css"
   },
   {
-    "revision": "cc80d271768c96ff3aee",
-    "url": "/static/js/2.2b18f42b.chunk.js"
+    "revision": "da869b7b712963fb34a6",
+    "url": "/static/js/2.7c93ab15.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/static/js/2.2b18f42b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7c93ab15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f1a68d5fbfd6f9e662a",
-    "url": "/static/js/main.0dcddd7b.chunk.js"
+    "revision": "ef00df490276e6990c18",
+    "url": "/static/js/main.4345a3d7.chunk.js"
   },
   {
     "revision": "bb0e49323e2a07d625d9",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airnotes-5.3948c2c0.png"
   },
   {
-    "revision": "98c100c92859baa397e097bf9923ce4c",
-    "url": "/static/media/apple.98c100c9.png"
-  },
-  {
     "revision": "e7d0c8d5bed06e182cc13d883cac708b",
     "url": "/static/media/birthdaymemories-1.e7d0c8d5.png"
   },
@@ -62,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2857a3237802e0e6829210362621c6d8",
     "url": "/static/media/birthdaymemories-4.2857a323.png"
+  },
+  {
+    "revision": "09d277510b46c5091c48b5975028d5a8",
+    "url": "/static/media/cv.09d27751.md"
   },
   {
     "revision": "abdbaf6128f2d08899d9461fbd8bcf58",
@@ -104,10 +104,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dialog-5.a970894f.png"
   },
   {
-    "revision": "07b1552661df5c0490a092a77fc9b0ff",
-    "url": "/static/media/gt.07b15526.png"
-  },
-  {
     "revision": "20b2af1262584de369d2462c4ee7c022",
     "url": "/static/media/imap-1.20b2af12.png"
   },
@@ -136,20 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/knightbot-2.fcb43b84.png"
   },
   {
-    "revision": "4e5f07cf15c64bd04c77a18e3051209e",
-    "url": "/static/media/logo.4e5f07cf.png"
-  },
-  {
-    "revision": "2cfa61008d3b1c2e064cd3a07ba140e4",
-    "url": "/static/media/mga.2cfa6100.png"
-  },
-  {
-    "revision": "2f3f30b7b5eb3b6f9e135dc7a3d1bd9f",
-    "url": "/static/media/michael-koohang-resume.2f3f30b7.pdf"
-  },
-  {
-    "revision": "3ebb8110031aba3053e549dfe074ab8e",
-    "url": "/static/media/profile-pic.3ebb8110.jpeg"
+    "revision": "7f021ffedb90f10a16e95d5beb6080a5",
+    "url": "/static/media/profile-pic.7f021ffe.jpeg"
   },
   {
     "revision": "fa89087d8c2b45f80851560126decbee",
@@ -166,10 +150,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d4fab36487f7f3f3f6ebd144f739bba6",
     "url": "/static/media/ratwatch-4.d4fab364.png"
-  },
-  {
-    "revision": "93944c611322b5004b876e66f31fce76",
-    "url": "/static/media/stanford.93944c61.png"
   },
   {
     "revision": "94b6bed89743cf202b9cf56750be5d2c",
